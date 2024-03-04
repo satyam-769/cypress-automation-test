@@ -1,0 +1,14 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Satyam",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "13.6.6"
+  }
+}
