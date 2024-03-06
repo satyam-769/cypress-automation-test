@@ -8,4 +8,7 @@ module.exports = defineConfig({
   },
   // viewportWidth: 760,  // We can set a config for all test
   // viewportHeight: 535
+
+  // includeShadowDOM make it true bydefault it is false
+  includeShadowDOM: true,
 });
