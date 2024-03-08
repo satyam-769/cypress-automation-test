@@ -1,0 +1,11 @@
+{
+  "name": {
+    "first_name": "Satyam",
+    "last_name": "Patel"
+  },
+  "email": "cypress@gmail.com",
+  "phone": "123",
+  "login": {
+    "password": "cypress@123"
+  }
+}
